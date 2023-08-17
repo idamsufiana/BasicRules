@@ -10,7 +10,7 @@ Coding Curriculum
 	6. Practice ci/cd and implement unit test as important as development
 	7. ERD Diagram & DB handling, Indexing etc
 	8. Learn system design
-	9. React JS & Node Js is also important as other programming languages
+	9. React JS & Node Js are also important as other programming languages
 
 
 
