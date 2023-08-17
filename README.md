@@ -12,7 +12,7 @@ Coding Curriculum
 	8. Learn system design
 	9. React JS & Node Js are also important as other backend framework
  	10. Make a deadline while build simple or complex project
-  	11. follow tech Youtuber and create nice setup to stay update latest tech and make a good life 
+  	11. follow tech Youtuber to stay update latest tech and create a nice setup to make a good life 
  
 
 
