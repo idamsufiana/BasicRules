@@ -1,0 +1,20 @@
+Clean code rules
+
+Naming
+1. use intention-revealing names
+2. choose pronounce names 
+3. use searchable names
+4. avoid prefix, suffixes, abbreviations
+
+
+
+Functions
+
+1. do one thing well
+2. should be small
+3. the fewer arguments the better 
+
+Comments
+
+1. avoid comment to explain a variable
+2. avoid comment to explain function
