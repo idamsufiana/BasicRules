@@ -12,6 +12,13 @@ Coding Curriculum
 	8. Learn system design
 	9. Angular, React JS & Node Js are also important as other backend framework
   	10. follow tech Youtuber to stay update latest tech and create a nice setup to make a good life 
+
+some interesting sources :
+https://www.springboottutorial.com/spring-boot-projects-with-code-examples
+https://www.bezkoder.com/spring-boot-jpa-crud-rest-api/
+https://guides.micronaut.io/latest/micronaut-spring-boot-maven-java.html
+https://www.vogella.com/tutorials/SpringBoot/article.html
+https://www.java2novice.com/spring-boot/
  
 
 
