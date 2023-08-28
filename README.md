@@ -5,7 +5,7 @@ Coding Curriculum
 	1. Daily leetcode , minimum 2 cases perday target 700 cases in a year (optimal solution)
 	2. Solid Algorithm & data Structure
 	3. Implement clean code and clean architecture while build apps
-	4. HackerRank and Codewars are optional
+	4. HackerRank has many various SQL problems and Codewars is good for practicing javascript
  	5. Create Rest API in several Frameworks  
 	6. Create and publish personal 'website' project
 	7. Practice ci/cd and treat unit test as important as development
