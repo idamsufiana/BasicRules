@@ -13,7 +13,7 @@ Coding Curriculum
 	9. Angular, React JS & Node Js are also important as other backend framework
   	10. follow tech Youtuber to stay update latest tech and create a nice setup to make a good life
    	11. Spring boot developers must excel spring security and AOP
-    12. Be Multiple Languages programmer, Python is other best choice programming language
+    12. Be Multiple Languages programmer, Python is other best choice
 
 some interesting sources :
 https://www.springboottutorial.com/spring-boot-projects-with-code-examples
