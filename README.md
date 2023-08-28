@@ -12,7 +12,7 @@ Coding Curriculum
 	8. Learn system design
 	9. Angular, React JS & Node Js are also important as other backend framework
   	10. follow tech Youtuber to stay update latest tech and create a nice setup to make a good life
-   	11. Be Multiple Languages programmer, Python is other best choice
+   	11. Be Multi-Languages programmer, Python is other best choice
 
 some interesting sources :
 https://www.springboottutorial.com/spring-boot-projects-with-code-examples
