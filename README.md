@@ -14,7 +14,7 @@ Coding Curriculum
 	10. Angular, React JS & Node Js are also important as other backend framework
   	11. follow tech Youtuber to stay update latest tech and create a nice setup to make a good life
    	12. Be Multi-Languages programmer, Python is other best choice
-    13. Make everyday deadline: for practice, take a course or project
+    13. Make everyday deadline: for leetcode, practice, take a course or project
     14. Be Proactive and autonomous
 
     
