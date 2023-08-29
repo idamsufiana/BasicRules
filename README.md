@@ -15,7 +15,7 @@ Coding Curriculum
   	11. follow tech Youtuber to stay update latest tech and create a nice setup to make a good life
    	12. Be Multi-Languages programmer, Python is other best choice
     13. Make everyday deadline: for leetcode, practice, take a course or project
-    14. Be Proactive and autonomous, not because of your toxic or tipu-tipu environment
+    14. Be Proactive and autonomous
 
     
 
