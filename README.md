@@ -7,16 +7,17 @@ Coding Curriculum
 	3. Implement clean code and clean architecture while build apps
 	4. HackerRank has many various SQL problems and Codewars is good for practicing javascript, 
  	most basic backend coding in testdome
- 	5. Create Rest API in several Frameworks  
-	6. Create and publish personal 'website' project
-	7. Practice ci/cd (Gitlab CI, Jenkins), container orchestration (Kubernetes) and treat unit test as important as development
-	8. ERD Diagram & DB handling, Indexing, Redisetc
-	9. Learn system design
-	10. Angular, React JS & Node Js are also important as other backend framework
-  	11. follow tech Youtuber to stay update latest tech and create a nice setup to make a good life
-   	12. Be Multi-Languages programmer, Python is other best choice
-    13. Make everyday deadline: for leetcode, practice, take a course or project
-    14. Be Proactive and autonomous
+  	5. Finish your spring boot course, Xml parser and AOP cases are frequently missing when you only rely on office tasks
+ 	6. Create Rest API in several Frameworks  
+	7. Create and publish personal 'website' project
+	8. Practice ci/cd (Gitlab CI, Jenkins), container orchestration (Kubernetes) and treat unit test as important as development
+	9. ERD Diagram & DB handling, Indexing, Redisetc
+	10. Learn system design
+	11. Angular, React JS & Node Js are also important as other backend framework
+  	12. follow tech Youtuber to stay update latest tech and create a nice setup to make a good life
+   	13. Be Multi-Languages programmer, Python is other best choice
+    14. Make everyday deadline: for leetcode, practice, take a course or project
+    15. Be Proactive and autonomous
 
     
 
