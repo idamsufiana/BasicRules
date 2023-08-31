@@ -1,5 +1,5 @@
-# CodingCurriculum
-Coding Curriculum
+# Rules
+Rules
 
 
 	1. Daily leetcode , minimum 2 cases perday target 700 cases in a year (optimal solution)
