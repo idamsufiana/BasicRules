@@ -13,7 +13,7 @@ Coding Curriculum
 	8. Practice ci/cd (Gitlab CI, Jenkins), container orchestration (Kubernetes) and treat unit test as important as development
 	9. ERD Diagram & DB handling, Indexing, Redisetc
 	10. Learn system design
-	11. Angular, React JS & Node Js are also important as other backend framework
+	11. Angular, React & Node Js are also important as other backend framework
   	12. follow tech Youtuber to stay update latest tech and create a nice setup to make a good life
    	13. Be Multi-Languages programmer, Python is other best choice
     14. Make everyday deadline: for leetcode, practice, take a course or project
