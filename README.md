@@ -9,8 +9,8 @@ Coding Curriculum
  	most basic backend coding in testdome
  	5. Create Rest API in several Frameworks  
 	6. Create and publish personal 'website' project
-	7. Practice ci/cd and treat unit test as important as development
-	8. ERD Diagram & DB handling, Indexing etc
+	7. Practice ci/cd (Gitlab CI, Jenkins), container orchestration (Kubernetes) and treat unit test as important as development
+	8. ERD Diagram & DB handling, Indexing, Redisetc
 	9. Learn system design
 	10. Angular, React JS & Node Js are also important as other backend framework
   	11. follow tech Youtuber to stay update latest tech and create a nice setup to make a good life
