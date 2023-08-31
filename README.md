@@ -18,6 +18,7 @@ Coding Curriculum
    	13. Be Multi-Languages programmer, Python is other best choice
     14. Make everyday deadline: for leetcode, practice, take a course or project
     15. Be Proactive and autonomous
+    16. Non Usury Business
 
     
 
