@@ -11,7 +11,7 @@ Rules
  	6. Create Rest API in several Frameworks  
 	7. Create and publish personal 'website' project
 	8. Practice ci/cd (Gitlab CI, Jenkins), container orchestration (Kubernetes) and treat unit test as important as development
-	9. ERD Diagram & DB handling, Indexing, Redisetc
+	9. ERD Diagram & DB handling, Indexing, Redis, etc
 	10. Learn system design
 	11. Angular, React & Node Js are also important as other backend framework
   	12. follow tech Youtuber to stay update latest tech and create a nice setup to make a good life
