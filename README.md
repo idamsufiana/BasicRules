@@ -11,16 +11,16 @@ Rules
    	on office tasks
  	6. Create Rest API in several Frameworks  
 	7. Create and publish personal 'website' project
-	8. Practice ci/cd (Gitlab CI, Jenkins), container orchestration (Kubernetes) and treat unit test 
- 	as important as development
-	9. ERD Diagram & DB handling, Indexing, Redis, etc
-	10. Learn system design
-	11. Angular, React & Node Js are also important as other backend framework
-  	12. follow tech Youtuber to stay update latest tech and create a nice setup to make a good life
-   	13. Be Multi-Languages programmer, Python is other best choice
-    14. Make everyday deadline: for leetcode, practice, take a course or project
-    15. Be Proactive and autonomous
-    16. Non Usury Business
+	8. Practice ci/cd (Gitlab CI, Jenkins), container orchestration (Kubernetes) and Message Broker (Kafka)
+ 	9. Treat unit test as important as development
+	10. ERD Diagram & DB handling, Indexing, Redis, etc
+	11. Learn system design
+	12. Angular, React & Node Js are also important as other backend framework
+  	13. follow tech Youtuber to stay update latest tech and create a nice setup to make a good life
+   	14. Be Multi-Languages programmer, Python is other best choice
+    15. Make everyday deadline: for leetcode, practice, take a course or project
+    16. Be Proactive and autonomous
+    17. Non Usury Business
 
     
 
