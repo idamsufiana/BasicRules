@@ -6,7 +6,7 @@ Rules
 	2. Solid Algorithm & data Structure
 	3. Implement clean code and clean architecture while build apps (Refactoring pdf also recomended)
 	4. HackerRank has many various SQL problems and Codewars is good for practicing javascript, 
- 	most basic backend coding in testdome
+ 	most basic backend codes are in testdome
   	5. Finish your spring boot course, Xml parser and AOP cases are frequently missing when you only rely 
    	on office tasks
  	6. Create Rest API in several Frameworks  
