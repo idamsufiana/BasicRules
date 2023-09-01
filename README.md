@@ -4,7 +4,7 @@ Rules
 
 	1. Daily leetcode , minimum 2 cases perday target 700 cases in a year (optimal solution)
 	2. Solid Algorithm & data Structure
-	3. Implement clean code and clean architecture while build apps
+	3. Implement clean code and clean architecture while build apps (Refactoring pdf also recomended)
 	4. HackerRank has many various SQL problems and Codewars is good for practicing javascript, 
  	most basic backend coding in testdome
   	5. Finish your spring boot course, Xml parser and AOP cases are frequently missing when you only rely 
@@ -19,9 +19,8 @@ Rules
   	12. follow tech Youtuber to stay update latest tech and create a nice setup to make a good life
    	13. Be Multi-Languages programmer, Python is other best choice
     14. Make everyday deadline: for leetcode, practice, take a course or project
-    15. Read Clean Code & Refactoring 
-    16. Be Proactive and autonomous
-    17. Non Usury Business
+    15. Be Proactive and autonomous
+    16. Non Usury Business
 
     
 
