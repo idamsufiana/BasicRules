@@ -7,10 +7,12 @@ Rules
 	3. Implement clean code and clean architecture while build apps
 	4. HackerRank has many various SQL problems and Codewars is good for practicing javascript, 
  	most basic backend coding in testdome
-  	5. Finish your spring boot course, Xml parser and AOP cases are frequently missing when you only rely on office tasks
+  	5. Finish your spring boot course, Xml parser and AOP cases are frequently missing when you only rely 
+   	on office tasks
  	6. Create Rest API in several Frameworks  
 	7. Create and publish personal 'website' project
-	8. Practice ci/cd (Gitlab CI, Jenkins), container orchestration (Kubernetes) and treat unit test as important as development
+	8. Practice ci/cd (Gitlab CI, Jenkins), container orchestration (Kubernetes) and treat unit test 
+ 	as important as development
 	9. ERD Diagram & DB handling, Indexing, Redis, etc
 	10. Learn system design
 	11. Angular, React & Node Js are also important as other backend framework
