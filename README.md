@@ -30,6 +30,8 @@ https://www.bezkoder.com/spring-boot-jpa-crud-rest-api/
 https://guides.micronaut.io/latest/micronaut-spring-boot-maven-java.html
 https://www.vogella.com/tutorials/SpringBoot/article.html
 https://www.java2novice.com/spring-boot/
+basic:
+https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/
  
 
 
