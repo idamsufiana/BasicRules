@@ -17,7 +17,7 @@ Rules
 	11. Learn system design
 	12. Angular, React & Node Js are also important as other backend framework
   	13. follow tech Youtuber to stay update latest tech and create a nice setup to make a good life
-   	14. Be Multi-Languages programmer, Python is other best choice
+   	14. Be a Multi-Languages programmer, Python is other best choice
     15. Make everyday deadline: for leetcode, practice, take a course or project
     16. Be Proactive and autonomous
     17. Non Usury Business
