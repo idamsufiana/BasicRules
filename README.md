@@ -10,7 +10,7 @@ Rules
   	5. Finish your spring boot course, Xml parser and AOP cases are frequently missing when you only rely 
    	on office tasks
  	6. Create Rest API in several Frameworks  
-	7. Create and publish personal 'website' project
+	7. Create and publish personal website project
 	8. Practice ci/cd (Gitlab CI, Jenkins), container orchestration (Kubernetes) and Message Broker (Kafka)
  	9. Treat unit test as important as development
 	10. ERD Diagram & DB handling, Indexing, Redis, etc
