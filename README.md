@@ -24,7 +24,7 @@ Rules
 
     
 
-some interesting sources :
+Interesting sources :
 https://www.springboottutorial.com/spring-boot-projects-with-code-examples
 https://www.bezkoder.com/spring-boot-jpa-crud-rest-api/
 https://guides.micronaut.io/latest/micronaut-spring-boot-maven-java.html
