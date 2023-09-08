@@ -15,7 +15,7 @@ Rules
  	9. Treat unit test as important as development
 	10. ERD Diagram & DB handling, Indexing, Redis, database pooling etc
 	11. Learn system design
-	12. Angular, React & Node Js are also important as other backend framework
+	12. Angular, React, Express & Node Js are also important as other backend framework
   	13. follow tech Youtuber to stay update latest tech and create a nice setup to make a good life
    	14. Be a Multi-Languages programmer, Python is other best choice
     15. Make everyday deadline: for leetcode, practice, take a course or project
