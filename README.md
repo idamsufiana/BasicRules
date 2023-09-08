@@ -32,7 +32,8 @@ https://www.vogella.com/tutorials/SpringBoot/article.html
 https://www.java2novice.com/spring-boot/
 Basic:
 https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/
-references: microservices-for-java-developers.pdf, CleanCode.pdf, CleanArchitecture.pdf, Refactoring.pdf 
+References: 
+Microservices-for-java-developers.pdf, CleanCode.pdf, CleanArchitecture.pdf, Refactoring.pdf 
 
 Road to build Microservice Architecture system : 
 https://docs.google.com/presentation/d/1lKnpXhljmYwKgdnb1K8GDrpCYuao_ZHHGn24gX_um2M/edit#slide=id.g7c2be31d00_0_118
