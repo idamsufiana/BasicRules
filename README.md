@@ -32,7 +32,7 @@ https://www.vogella.com/tutorials/SpringBoot/article.html
 https://www.java2novice.com/spring-boot/
 basic:
 https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/
- 
+references: microservices-for-java-developers.pdf, CleanCode.pdf, CleanArchitecture.pdf, Refactoring.pdf 
 
 
 
