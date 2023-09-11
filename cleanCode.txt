@@ -38,3 +38,10 @@ Clean code rules
 1. class should be small
 2. single responsibility
 
+12) Emergence
+1. Run ALl the tests
+2. Refactoring
+3. No Duplication
+4. Expressive
+5. Minimal Classes & Methods
+
