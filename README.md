@@ -19,7 +19,7 @@ Rules
   	13. follow tech Youtuber to stay update latest tech and create a nice setup to make a good life
    	14. Be a Multi-Languages programmer, Python is other best choice
     15. Make everyday deadline: for leetcode, practice, take a course or project
-    16. Be Proactive and autonomous, over time not overnight
+    16. Be Proactive and autonomous
     17. Non Usury Business
 
     
