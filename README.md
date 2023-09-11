@@ -20,7 +20,6 @@ Rules
    	14. Be a Multi-Languages programmer, Python is other best choice
     15. Make everyday deadline: for leetcode, practice, take a course or project.
     16. Be Proactive and autonomous
-    17. Non Usury Business
 
     
 
