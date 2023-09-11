@@ -18,3 +18,11 @@ Comments
 
 1. avoid comment to explain a variable
 2. avoid comment to explain function
+
+
+Error Handling 
+
+1. write try catch 
+2. define normal flow
+3. dont return null
+4. dont pass null
