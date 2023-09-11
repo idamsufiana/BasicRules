@@ -7,12 +7,12 @@ Naming
 4. avoid prefix, suffixes, abbreviations
 
 
+Function 
 
-Functions
-
-1. do one thing well
-2. should be small
-3. the fewer arguments the better 
+1. Small
+2. do one thing
+3. dont repeat yourself
+ 
 
 Comments
 
