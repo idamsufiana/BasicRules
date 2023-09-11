@@ -26,3 +26,9 @@ Error Handling
 2. define normal flow
 3. dont return null
 4. dont pass null
+
+Class
+
+1. class should be small
+2. single responsibility
+
