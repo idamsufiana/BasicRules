@@ -1,4 +1,4 @@
 Create gitlab ci .yml
-
+https://docs.gitlab.com/ee/ci/yaml/gitlab_ci_yaml.html
 1. create stages
 2. break into its parts : stage and scripts 
