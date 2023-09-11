@@ -18,7 +18,7 @@ Rules
 	12. Angular, React, Express & Node Js are also important as other backend framework
   	13. follow tech Youtuber to stay update latest tech and create a nice setup to make a good life
    	14. Be a Multi-Languages programmer, Python is other best choice
-    15. Make everyday deadline: for leetcode, practice, take a course or project
+    15. Make everyday deadline: for leetcode, practice, take a course or project. Real Projects are set in a deadline
     16. Be Proactive and autonomous
     17. Non Usury Business
 
