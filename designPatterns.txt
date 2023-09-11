@@ -1,7 +1,7 @@
 
 Vaious Design Pattern 
 	1. Single Pattern : database connection
-	2. Repository Pattern  : connect to repository so that 
+	2. Repository Pattern  : separate repository to business logic
 	3. Factory Pattern : pattern used by case that return formula for some condition 
 	4. Facade Pattern : pattern used to simply code due to complicates logic
 
