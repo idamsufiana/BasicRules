@@ -27,6 +27,12 @@ Clean code rules
 3. dont return null
 4. dont pass null
 
+9) Unit Tests
+
+1. One Assert per test
+2. single concept per test
+3. clean test : FIRST, fast independent repeatable self validating
+
 10) Classes
 
 1. class should be small
