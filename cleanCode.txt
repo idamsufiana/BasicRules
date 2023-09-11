@@ -1,33 +1,33 @@
 Clean code rules
 
-Naming
+2) Naming
 1. use intention-revealing names
 2. choose pronounce names 
 3. use searchable names
 4. avoid prefix, suffixes, abbreviations
 
 
-Function 
+3) Function 
 
 1. Small
 2. do one thing
 3. dont repeat yourself
  
 
-Comments
+4) Comments
 
 1. avoid comment to explain a variable
 2. avoid comment to explain function
 
 
-Error Handling 
+7) Error Handling 
 
 1. write try catch 
 2. define normal flow
 3. dont return null
 4. dont pass null
 
-Class
+10) Classes
 
 1. class should be small
 2. single responsibility
