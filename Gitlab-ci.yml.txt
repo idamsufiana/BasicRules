@@ -1,0 +1,4 @@
+Create gitlab ci .yml
+
+1. create stages
+2. break into its parts : stage and scripts 
