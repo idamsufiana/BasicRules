@@ -5,7 +5,7 @@ Rules
 	1. Daily leetcode , minimum 2 cases perday (optimal solution), Replenish them every week 
 	2. Solid Algorithm & data Structure
 	3. Implement clean code and clean architecture while build apps (Refactoring pdf also recomended)
-	4. HackerRank has many various SQL problems and Codewars is good for practicing javascript, 
+	4. HackerRank has many various Algorithm & SQL problems and Codewars is good for practicing javascript, 
  	most basic backend codes are in testdome
   	5. Finish your spring boot course, Xml parser and AOP cases are frequently missing when you only rely 
    	on office tasks
