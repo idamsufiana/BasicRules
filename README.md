@@ -1,5 +1,4 @@
-# Rules
-Rules
+## Daily Life Developer
 
 Guide yourself, Be Yourself,   
 Time limmited but too many toxic people want to destroy your life  
