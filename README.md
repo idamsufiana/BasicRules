@@ -1,9 +1,5 @@
 ## Daily Life Developer
 
-Guide yourself, Be Yourself,   
-Time limmited but too many toxic people want to destroy your life  
-by trapping you in past life and usury business
-
 	1. Daily leetcode , minimum 2 cases perday (optimal solution), Replenish them every week 
 	2. Solid Algorithm & data Structure
 	3. Implement clean code and clean architecture while build apps (Refactoring pdf also recomended)
