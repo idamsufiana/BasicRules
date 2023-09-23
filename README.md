@@ -1,4 +1,4 @@
-## Not a Programmer unless did the rules consistently 
+## Not a Programmer unless doing the rules consistently 
 
 	1. Daily leetcode , minimum 2 cases perday (optimal solution), Replenish them every week 
 	2. Solid Algorithm & data Structure
