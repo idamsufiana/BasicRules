@@ -1,4 +1,4 @@
-## Not a Programmer unless doing the rules consistently 
+## Basic rules 
 
 	1. Daily leetcode , minimum 2 cases perday (optimal solution), Replenish them every week 
 	2. Solid Algorithm & data Structure
