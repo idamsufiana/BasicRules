@@ -5,8 +5,8 @@
 	3. Implement clean code and clean architecture while build apps (Refactoring pdf also recomended)
 	4. HackerRank has many various Algorithm & SQL problems and Codewars is good for practicing javascript, 
  	most basic backend codes are in testdome
-  	5. Finish your spring boot course (All shits in Spring), Xml parser and AOP cases are frequently missing when you only rely 
-   	on office tasks
+  	5. Finish your spring boot course (All shits in Spring), Xml parser and AOP cases are frequently missing 
+   	when you only rely on office tasks
  	6. Create Rest API in several Frameworks  
 	7. Create and publish personal website project
 	8. Practice ci/cd (Gitlab CI, Jenkins), container orchestration (Kubernetes) and Message Broker (Kafka)
