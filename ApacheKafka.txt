@@ -1,0 +1,13 @@
+Download Kafka save as Kafka in c:
+Start zookeeper
+.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
+Start Kafka
+.\bin\windows\kafka-server-start.bat .\config\server.properties
+Create Topic
+.\bin\windows\kafka-topics.bat --create --topic test --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1
+List Topic
+.\bin\windows\kafka-topics.bat --list --bootstrap-server localhost:9092
+Send data
+.\bin\windows\kafka-console-producer.bat --broker-list localhost:9092 --topic test
+Consume data
+.\bin\windows\kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic test --from-beginning
