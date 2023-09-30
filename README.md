@@ -3,21 +3,19 @@
 	1. Daily leetcode (Optimal solution) Replenish them every week 
 	2. Solid Algorithm & data Structure
 	3. Implement clean code and clean architecture while build apps (Refactoring pdf also recomended)
-	4. HackerRank has many various Algorithm & SQL problems and Codewars is good for practicing javascript, 
- 	most basic backend codes are in testdome
-  	5. Finish your spring boot course (All shits Security, Transactional or using mongo in Spring), Xml parser 
+	4. Finish your spring boot course (All shits Security, Transactional or using mongo in Spring), Xml parser 
    	and AOP cases are frequently missing when you only rely on office tasks
- 	6. Create Rest and Restful API in several Frameworks  
-	7. Create and publish personal website project
-	8. Practice ci/cd (Gitlab CI, Jenkins), container orchestration (Kubernetes) and Message Broker (Kafka)
- 	9. Treat unit test as important as development
-	10. ERD Diagram & DB handling, Indexing, Redis, database pooling, avoiding sql injection etc
-	11. Learn system design
-	12. Choose one JS framework as FrontEnd that you're comfortable most
-  	13. follow tech Youtuber to stay update latest tech and create a nice setup to make a good life
-   	14. Be a Multi-Languages programmer, Python is other best choice
-    15. Make everyday deadline: for leetcode, practice, take a course or project.
-    16. Be Proactive and autonomous
+ 	5. Create Rest and Restful API in several Frameworks  
+	6. Create and publish personal website project
+	7. Practice ci/cd (Gitlab CI, Jenkins), container orchestration (Kubernetes) and Message Broker (Kafka)
+ 	8. Treat unit test as important as development
+	9. ERD Diagram & DB handling, Indexing, Redis, database pooling, avoiding sql injection etc
+	10. Learn system design
+	11. Choose one JS framework as FrontEnd that you're comfortable most
+  	12. follow tech Youtuber to stay update latest tech and create a nice setup to make a good life
+   	13. Be a Multi-Languages programmer, Python is other best choice
+    14. Make everyday deadline: for leetcode, practice, take a course or project.
+    15. Be Proactive and autonomous
 
     
 
