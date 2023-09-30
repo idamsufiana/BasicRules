@@ -7,7 +7,7 @@
  	most basic backend codes are in testdome
   	5. Finish your spring boot course (All shits Security, Transactional or using mongo in Spring), Xml parser 
    	and AOP cases are frequently missing when you only rely on office tasks
- 	6. Create Rest API in several Frameworks  
+ 	6. Create Rest and Restful API in several Frameworks  
 	7. Create and publish personal website project
 	8. Practice ci/cd (Gitlab CI, Jenkins), container orchestration (Kubernetes) and Message Broker (Kafka)
  	9. Treat unit test as important as development
