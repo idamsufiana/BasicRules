@@ -41,6 +41,9 @@ https://www.youtube.com/watch?v=X48VuDVv0do&t=2903s
 Golang:
 https://www.youtube.com/watch?v=YS4e4q9oBaU&t=4929s
 
+Gitlab CI:
+https://www.youtube.com/watch?v=qP8kir2GUgo
+
 References: 
 Microservices-for-java-developers.pdf, CleanCode.pdf, CleanArchitecture.pdf, Refactoring.pdf 
 
