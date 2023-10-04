@@ -32,6 +32,8 @@ https://www.youtube.com/watch?v=RBSGKlAvoiM&t=17699s
 References: 
 Microservices-for-java-developers.pdf, CleanCode.pdf, CleanArchitecture.pdf, Refactoring.pdf 
 
+https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/
+
 RoadMap to Microservice Architecture : 
 https://docs.google.com/presentation/d/1lKnpXhljmYwKgdnb1K8GDrpCYuao_ZHHGn24gX_um2M/edit#slide=id.g7c2be31d00_0_118
 
