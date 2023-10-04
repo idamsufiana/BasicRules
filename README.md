@@ -29,14 +29,17 @@ Basic:
 https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/
 https://www.youtube.com/watch?v=RBSGKlAvoiM&t=17699s
 
-Database Pooling :
+Database Pooling:
 https://www.youtube.com/watch?v=9no1voPWaYo&t=193s
 
-SQL Injection :
+SQL Injection:
 https://www.youtube.com/watch?v=cx6Xs3F_1Uc
 
-Kubernetes :
+Kubernetes:
 https://www.youtube.com/watch?v=X48VuDVv0do&t=2903s
+
+Golang:
+https://www.youtube.com/watch?v=YS4e4q9oBaU&t=4929s
 
 References: 
 Microservices-for-java-developers.pdf, CleanCode.pdf, CleanArchitecture.pdf, Refactoring.pdf 
