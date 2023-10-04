@@ -35,6 +35,9 @@ https://www.youtube.com/watch?v=9no1voPWaYo&t=193s
 SQL Injection :
 https://www.youtube.com/watch?v=cx6Xs3F_1Uc
 
+Kubernetes :
+https://www.youtube.com/watch?v=X48VuDVv0do&t=2903s
+
 References: 
 Microservices-for-java-developers.pdf, CleanCode.pdf, CleanArchitecture.pdf, Refactoring.pdf 
 
