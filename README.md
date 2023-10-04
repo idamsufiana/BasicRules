@@ -29,6 +29,9 @@ Basic:
 https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/
 https://www.youtube.com/watch?v=RBSGKlAvoiM&t=17699s
 
+Database Pooling :
+https://www.youtube.com/watch?v=9no1voPWaYo&t=193s
+
 References: 
 Microservices-for-java-developers.pdf, CleanCode.pdf, CleanArchitecture.pdf, Refactoring.pdf 
 
