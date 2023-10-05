@@ -39,8 +39,9 @@ SQL Injection:
 https://www.youtube.com/watch?v=cx6Xs3F_1Uc
 
 References: 
-Microservices-for-java-developers.pdf, CleanCode.pdf, CleanArchitecture.pdf, Refactoring.pdf 
+Microservices-for-java-developers.pdf, CleanCode.pdf, CleanArchitecture.pdf, Refactoring.pdf
 
+https://www.devopsschool.com/blog/top-api-architectural-styles/
 https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/
 
 RoadMap to Microservice Architecture : 
