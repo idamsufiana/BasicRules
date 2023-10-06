@@ -28,21 +28,19 @@ https://www.java2novice.com/spring-boot/
 Basic:
 https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/
 https://www.youtube.com/watch?v=RBSGKlAvoiM&t=17699s
-https://www.youtube.com/watch?v=X48VuDVv0do&t=2903s
-https://www.youtube.com/watch?v=YS4e4q9oBaU&t=4929s
-https://www.youtube.com/watch?v=qP8kir2GUgo
+https://www.devopsschool.com/blog/top-api-architectural-styles/
+https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/
 
-Database Pooling:
-https://www.youtube.com/watch?v=9no1voPWaYo&t=193s
-
-SQL Injection:
-https://www.youtube.com/watch?v=cx6Xs3F_1Uc
+Kubernetes:https://www.youtube.com/watch?v=X48VuDVv0do&t=2903s  
+Go:https://www.youtube.com/watch?v=YS4e4q9oBaU&t=4929s   
+Gitlab CI:https://www.youtube.com/watch?v=qP8kir2GUgo   
+Database Pooling:https://www.youtube.com/watch?v=9no1voPWaYo&t=193s   
+SQL Injection:https://www.youtube.com/watch?v=cx6Xs3F_1Uc
 
 References: 
 Microservices-for-java-developers.pdf, CleanCode.pdf, CleanArchitecture.pdf, Refactoring.pdf
 
-https://www.devopsschool.com/blog/top-api-architectural-styles/
-https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/
+
 
 RoadMap to Microservice Architecture : 
 https://docs.google.com/presentation/d/1lKnpXhljmYwKgdnb1K8GDrpCYuao_ZHHGn24gX_um2M/edit#slide=id.g7c2be31d00_0_118
