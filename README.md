@@ -1,6 +1,6 @@
 ## Basic rules 
 
-	1. Daily leetcode (Optimal solution) Replenish them every week 
+	1. Practice Leetcode from @NeetCode channel 
 	2. Solid Algorithm & data Structure
 	3. Implement clean code and clean architecture while build apps (Refactoring pdf also recomended)
 	4. Finish your spring boot course (All shits like Security, Transactional or implement mongo), 
