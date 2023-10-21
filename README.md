@@ -36,6 +36,7 @@ Go:https://www.youtube.com/watch?v=YS4e4q9oBaU&t=4929s
 Gitlab CI:https://www.youtube.com/watch?v=qP8kir2GUgo   
 Database Pooling:https://www.youtube.com/watch?v=9no1voPWaYo&t=193s   
 SQL Injection:https://www.youtube.com/watch?v=cx6Xs3F_1Uc
+Spring Boot JWT : https://www.youtube.com/watch?v=VVn9OG9nfH0&t=4229s
 
 References: 
 Microservices-for-java-developers.pdf, CleanCode.pdf, CleanArchitecture.pdf, Refactoring.pdf
