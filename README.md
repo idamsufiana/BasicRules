@@ -12,7 +12,7 @@
 	10. Learn system design
 	11. Choose one JS framework as FrontEnd that you're comfortable most
   	12. follow tech Youtuber to stay update latest tech and create a nice setup to make a good life
-   	13. Be a Multi-Languages programmer, Python is other best choice
+   	13. Be a Multi-Languages programmer
     14. Make everyday deadline: for leetcode, practice, take a course or project.
     15. Be Proactive and autonomous
 
