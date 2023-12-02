@@ -1,5 +1,5 @@
 
-Vaious Design Pattern 
+Various Design Pattern 
 	1. Single Pattern : database connection
 	2. Repository Pattern  : separate query logic to business logic
 	3. Factory Pattern : pattern used by case that return formula for some condition 
