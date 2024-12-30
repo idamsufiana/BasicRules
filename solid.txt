@@ -1,5 +1,8 @@
 1. Single Responsibility Principle
+   each class should have one only purpose 
 2. Open/Closed Principle
+   Software entities (classes, modules, functions, etc.) should be open for extension but closed for modification.
 3. Liskov Substitution Principle
+   Objects of a superclass should be replaceable with objects of a subclass without altering the behavior of the program.
 4. Interface Segregation Principle
 5. Dependency Inversion Principle
