@@ -1,1 +1,15 @@
 
+Thread Management
+Thread Class and Runnable Interface: Java provides Thread and Runnable to create and manage threads
+Executor Framework: Provides a higher-level API for managing threads. Common implementations
+
+Synchronization
+Synchronized Blocks/Methods: Used to prevent thread interference and ensure thread-safe operations
+Lock Interface: Provides more flexible synchronization mechanisms than synchronized.
+
+Concurrency Utilities
+java.util.concurrent Package: Provides classes for advanced concurrency control
+
+Thread Safety
+
+Fork/Join Framework
