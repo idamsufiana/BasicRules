@@ -1,0 +1,12 @@
+Types of Indexes
+Single-column Index: Indexes created on a single column.
+Composite Index: Indexes created on multiple columns.
+Unique Index: Ensures all values in a column are unique.
+Clustered Index: Determines the physical order of data in a table (only one allowed per table).
+Non-clustered Index: Separate from the table data and stores pointers to the physical rows.
+Full-text Index: Optimized for searching textual data.
+
+When to Use Indexing
+Frequently Queried Columns: Use indexes on columns in WHERE, JOIN, and GROUP BY clauses.
+Large Tables: Indexing is especially beneficial for large tables.
+Sorting Operations: Use indexing on columns frequently used in ORDER BY.
