@@ -1,20 +1,19 @@
 ## Basic rules 
 
-	1. Practice Leetcode from @NeetCode channel 
-	2. Solid Algorithm & data Structure
-	3. Implement clean code and clean architecture while build apps (Refactoring pdf also recomended)
-	4. Finish your spring boot course, don't only rely on office tasks
- 	5. Create Rest and Restful API in several Frameworks  
-	6. Create and publish personal website project
-	7. Practice ci/cd (Gitlab CI, Jenkins), container orchestration (Kubernetes) and Message Broker (Kafka)
- 	8. Treat unit test as important as development
-	9. ERD Diagram & DB handling, Indexing, Redis, database pooling, avoiding sql injection etc
-	10. Learn system design
-	11. Choose one JS framework as FrontEnd that you're comfortable most
-  	12. follow tech Youtuber to stay update latest tech and create a nice setup to make a good life
-   	13. Be a Multi-Languages programmer
-    14. Make everyday deadline: for leetcode, practice, take a course or project.
-    15. Be Proactive and autonomous
+	1. Solid Algorithm & data Structure
+	2. Implement clean code and clean architecture while build apps (Refactoring pdf also recomended)
+	3. Finish your spring boot course, don't only rely on office tasks
+ 	4. Create Rest and Restful API in several Frameworks  
+	5. Create and publish personal website project
+	6. Practice ci/cd (Gitlab CI, Jenkins), container orchestration (Kubernetes) and Message Broker (Kafka)
+ 	7. Treat unit test as important as development
+	8. ERD Diagram & DB handling, Indexing, Redis, database pooling, avoiding sql injection etc
+	9. Learn system design
+	10. Choose one JS framework as FrontEnd that you're comfortable most
+  	11. follow tech Youtuber to stay update latest tech and create a nice setup to make a good life
+   	12. Be a Multi-Languages programmer
+    13. Make everyday deadline: for leetcode, practice, take a course or project.
+    14. Be Proactive and autonomous
 
     
 
