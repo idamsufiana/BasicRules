@@ -16,3 +16,11 @@ scalable
 high performance
 persisten
 ekosistem
+
+1. Multiple Consumers in the Same Consumer Group
+When multiple consumers are part of the same consumer group, Kafka ensures that each partition is consumed by only one consumer from the group at a time. This allows you to scale your consumers to process messages in parallel.
+However, if you have more consumers than partitions, some consumers will remain idle.
+Use case: This setup is ideal for horizontally scaling your application to handle more messages.
+2. Multiple Consumers in Different Consumer Groups
+If you want each consumer to process the same messages, you can have consumers in different consumer groups. In this case, Kafka will send a copy of each message to every consumer in each consumer group.
+Use case: This is useful when you have different applications or services that need to process the same message (e.g., for logging, monitoring, or analytics).
