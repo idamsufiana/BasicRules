@@ -3,8 +3,8 @@
 	1. Solid Algorithm & data Structure
 	2. Implement clean code and clean architecture while build apps (Refactoring pdf also recomended)
 	3. Finish your spring boot course, don't only rely on office tasks
- 	4. Create Rest and Restful API in several Frameworks  
-	5. Create and publish personal website project
+ 	4. Build Scalable and robust service     
+	5. Learn how to solve problem high throughput and low latency services
 	6. Practice ci/cd (Gitlab CI, Jenkins), container orchestration (Kubernetes) and Message Broker (Kafka)
  	7. Treat unit test as important as development
 	8. ERD Diagram & DB handling, Indexing, Redis, database pooling, avoiding sql injection etc
@@ -14,6 +14,7 @@
    	12. Be a Multi-Languages programmer
     13. Make everyday deadline: for leetcode, practice, take a course or project.
     14. Be Proactive and autonomous
+    15. 
 
     
 
