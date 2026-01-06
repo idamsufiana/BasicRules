@@ -1,0 +1,99 @@
+OPSI 1 — Redis Lokal Pakai Docker (PALING DISARANKAN)
+
+Cocok buat backend engineer, nggak ribet install, clean, gampang reset.
+
+4
+1️⃣ Jalankan Redis container
+docker run -d \
+  --name redis-local \
+  -p 6379:6379 \
+  redis:7
+
+2️⃣ Cek Redis jalan
+docker ps
+
+3️⃣ Test pakai redis-cli
+docker exec -it redis-local redis-cli
+
+
+Lalu:
+
+PING
+
+
+✅ Output:
+
+PONG
+
+
+🎉 Redis siap dipakai!
+
+✅ OPSI 2 — Install Redis Langsung (Tanpa Docker)
+🪟 Windows (via WSL – recommended)
+
+Redis tidak native di Windows, jadi paling aman pakai WSL.
+
+wsl --install
+
+
+Di Ubuntu (WSL):
+
+sudo apt update
+sudo apt install redis-server
+
+
+Start Redis:
+
+redis-server
+
+
+Test:
+
+redis-cli ping
+
+🍎 macOS
+brew install redis
+brew services start redis
+
+
+Test:
+
+redis-cli ping
+
+🐧 Linux (Ubuntu/Debian)
+sudo apt update
+sudo apt install redis-server
+sudo systemctl start redis
+
+🔌 Default Config (PENTING)
+
+Redis default:
+
+Host: localhost
+
+Port: 6379
+
+Password: ❌ (tidak ada)
+
+☕ Integrasi Redis ke Spring Boot
+
+Karena kamu Java backend 👇
+
+1️⃣ Dependency
+<dependency>
+  <groupId>org.springframework.boot</groupId>
+  <artifactId>spring-boot-starter-data-redis</artifactId>
+</dependency>
+
+2️⃣ application.yml
+spring:
+  redis:
+    host: localhost
+    port: 6379
+
+3️⃣ Simple Test
+@Autowired
+StringRedisTemplate redisTemplate;
+
+redisTemplate.opsForValue().set("test", "hello");
+System.out.println(redisTemplate.opsForValue().get("test"));
