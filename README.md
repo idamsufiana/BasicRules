@@ -14,7 +14,7 @@
    	12. Be a Multi-Languages programmer
     13. Make everyday deadline: for leetcode, practice, take a course or project.
     14. Be Proactive and autonomous
-    15. 
+    15. Join Comunity or find a good environtment to learn
 
     
 
