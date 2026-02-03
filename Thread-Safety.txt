@@ -9,3 +9,10 @@ A race condition occurs when the outcome of a program depends on the relative ti
 Race conditions can lead to unpredictable and incorrect behavior, making them one of the most challenging issues in concurrent programming.
 
 
+Deadlock
+
+Occurs when two or more threads are waiting for each other to release locks, resulting in a standstill. 
+To avoid deadlock, ensure that locks are always acquired in a consistent order.
+
+
+
