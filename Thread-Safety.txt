@@ -1,3 +1,9 @@
 Atomicity
 
 Atomicity refers to operations that are indivisible and complete without interruption. 
+
+Two threads might read the same value simultaneously, 
+leading to incorrect results which is commonly known as race condition.
+
+A race condition occurs when the outcome of a program depends on the relative timing of events, such as the order in which threads execute. Race conditions can lead to unpredictable and incorrect behavior, making them one of the most challenging issues in concurrent programming.
+
