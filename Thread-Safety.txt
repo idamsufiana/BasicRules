@@ -1,0 +1,3 @@
+Atomicity
+
+Atomicity refers to operations that are indivisible and complete without interruption. 
